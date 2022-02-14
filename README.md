@@ -15,7 +15,7 @@ This project brings the background processing of pathfinding algorithms and rend
 
 ## Getting Started <a name = "getting_started"></a>
 - Open the project as a CMake build from the CMakeLists.txt
-- An .exe file is located in the build folder
+- An .exe file is located in the build/pathfinder folder
 
 ## Usage <a name="usage"></a>
 The window is consisted of NxN cells grid. There are 7 types of cells:
