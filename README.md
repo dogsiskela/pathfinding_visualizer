@@ -6,6 +6,10 @@
     <br> 
 </p>
 
+
+
+
+
 ## About <a name = "about"></a>
 This project brings the background processing of pathfinding algorithms and renders a visual representation in a 2D matrix. This interface allows for map state modification by changing the start and end position as well as adding and removing walls and cells that the path has to go through. 
 
@@ -37,6 +41,9 @@ The window is consisted of NxN cells grid. There are 7 types of cells:
     - D - Depth First Search
     - A - A* 
 - Press R to clean the cells from the last run algorithm.
+
+## Demo <a name="demo"></a>
+https://user-images.githubusercontent.com/45862325/153942576-cc6327a2-c84e-4fe1-9404-f0e58569ff59.mp4
 
 ## Project goals
 - [x] Generate cells grid
