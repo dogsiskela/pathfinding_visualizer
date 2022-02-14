@@ -29,6 +29,7 @@ The window is consisted of NxN cells grid. There are 7 types of cells:
 
 
 ## Modifying the grid <a name="inputs"></a>
+- To start the algorithm, press right click on the starting cell.
 - To add new wall to the grid, hold and drag the cursor through the empty cells. The paint size can be 1px to 3px. Modify the wall painting size by using the mouse wheel.
 - To change the position of the start and end cells, click and drag the cell to the new position.
 - To change the current algorithm press the corresponding key:
